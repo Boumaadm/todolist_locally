@@ -1,0 +1,16 @@
+{
+  "name": "my-todolist",
+  "version": "1.0.0",
+  "description": "My Todo List",
+  "main": "app.js",
+  "author": "Boumaadm",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.0.1"
+  }
+}
